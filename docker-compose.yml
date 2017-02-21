@@ -1,0 +1,6 @@
+version: "2.1"
+
+services:
+  heroku:
+    build: heroku
+    image: graysonwright/heroku
